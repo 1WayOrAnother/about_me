@@ -10,8 +10,11 @@ body {
   background-color: lightgray;
 }
 #picture {
-  width: 60%;
+
   float: right;
   border: solid;
-  border-color: grey beige white grey;
+  border-color:grey white;
+}
+#g-list{
+
 }
