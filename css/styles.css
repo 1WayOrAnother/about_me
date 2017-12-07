@@ -1,16 +1,76 @@
-
 h1 {
-  color: #5179ba
+  border: 1px solid grey;
+  margin: 10px 10px 10px 50px;
+  padding: 50px 20px 20px 20px;
+  background-color: #5179ba;
 }
+
+#picture {
+  border: 1px solid grey;
+  margin: 10px 10px 10px 50px;
+  padding: 11px 9px 6px 13px;
+  float: right;
+  border: solid;
+  border-color: grey white;
+}
+epicodus{
+  border: 1px solid grey;
+  margin: auto;
+  padding: 11px 9px 6px 13px;
+  float:none;
+  border: solid;
+  border-color: grey white;
+}
+body {
+  margin: 1px;
+  border: 2px;
+  padding: 3px 2px;
+  background-color: lightgray;
+  font-family: verdana;
+  font-size: 12px;
+}
+
+text-success {
+  text-decoration-style: solid;
+}
+
 p {
+  background: solid grey;
   fontstyle: italic;
   text-alighn: left;
 }
-body {
-  background-color: lightgray;
+
+div.info-box {
+  background-color: #fdedae;
+  border: 2px;
+  solid #f1e09c;
+  padding: 0 10px;
+  font-size: 12px;
+  float: left;
 }
-#picture {
+
+a {
+  margin: 1px;
+  border: 2px;
+  padding: 3px 2px;
+}
+
+text-success {
+  margin: 1px;
+  border: 2px;
+  padding: 3px 2px;
+}
+
+header4 {
+  border: 1px solid grey;
+  margin: 4px 5px;
+  background-color: #5179ba;
+  float: ;
+}
+
+/*#picture {
 
   float: right;
   border: solid;
   border-color:grey white;
+}*/
